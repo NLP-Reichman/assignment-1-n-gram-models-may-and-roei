@@ -13,9 +13,9 @@
   },
   "test_eval": {
     "en_on_en": 26.74,
-    "en_on_fr": 103.82,
-    "en_on_tl": 78.52,
-    "en_on_nl": 67.04
+    "en_on_fr": 58.49,
+    "en_on_tl": 70.59,
+    "en_on_nl": 61.41
   },
   "test_generate": {
     "english_2_gram": "I amoulpeginShmee bie ae",
